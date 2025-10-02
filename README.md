@@ -25,7 +25,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] Descriptive Statistics Calculator
         - [X] Calculate Covariance Matrix
     3. Optimization Techniques
-        - [ ] Linear Regression Using Gradient Descent
+        - [X] Linear Regression Using Gradient Descent
         - [ ] Implement Gradient Descent Variants with MSE Loss
         - [ ] Implement Adam Optimization Algorithm
         - [ ] Implement Lasso Regression using Gradient Descent
@@ -80,7 +80,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
        - [ ] Implement Reduced Row Echelon Form (RREF) Function
    3. Eigenvalues and Eigenvectors
        - [X] Calculate Eigenvalues of a Matrix
-       - [ ] Solve Linear Equations using Jacobi Method
+       - [X] Solve Linear Equations using Jacobi Method
        - [ ] Principal Component Analysis (PCA) Implementation
        - [ ] Singular Value Decomposition (SVD) of a 2x2 Matrix using Eigenvalues and Eigenvectors
    4. Matrix Factorization and Decomposition
