@@ -30,9 +30,9 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [ ] Implement Adam Optimization Algorithm
         - [ ] Implement Lasso Regression using Gradient Descent
     4. Fundamentals of Neural Networks
-        - [ ] Softmax Activation Function Implementation
+        - [X] Softmax Activation Function Implementation
         - [ ] Implementation of Log Softmax Function
-        - [ ] Sigmoid Activation Function
+        - [X] Sigmoid Activation Function
         - [ ] Implement ReLU Activation Function
         - [ ] Leaky ReLU Activation Function
         - [ ] Implement the PReLU Activation Function
