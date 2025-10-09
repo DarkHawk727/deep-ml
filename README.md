@@ -31,11 +31,11 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [ ] Implement Lasso Regression using Gradient Descent
     4. Fundamentals of Neural Networks
         - [X] Softmax Activation Function Implementation
-        - [ ] Implementation of Log Softmax Function
+        - [X] Implementation of Log Softmax Function
         - [X] Sigmoid Activation Function
-        - [ ] Implement ReLU Activation Function
-        - [ ] Leaky ReLU Activation Function
-        - [ ] Implement the PReLU Activation Function
+        - [X] Implement ReLU Activation Function
+        - [X] Leaky ReLU Activation Function
+        - [X] Implement the PReLU Activation Function
         - [ ] Single Neuron
         - [ ] Implementing a Simple RNN
         - [ ] Implement a Long Short-Term Memory (LSTM) Network
