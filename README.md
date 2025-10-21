@@ -36,7 +36,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] Implement ReLU Activation Function
         - [X] Leaky ReLU Activation Function
         - [X] Implement the PReLU Activation Function
-        - [ ] Single Neuron
+        - [X] Single Neuron
         - [ ] Implementing a Simple RNN
         - [ ] Implement a Long Short-Term Memory (LSTM) Network
         - [ ] Simple Convolutional 2D Layer
@@ -63,7 +63,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
    1. Vector Spaces
         - [X] Matrix-Vector Dot Product
         - [X] Transpose of a Matrix
-        - [ ] Convert Vector to Diagonal Matrix
+        - [X] Convert Vector to Diagonal Matrix
         - [X] Dot Product Calculator
         - [ ] Find the Image of a Matrix Using Row Echelon Form
         - [X] Calculate Cosine Similarity Between Vectors
