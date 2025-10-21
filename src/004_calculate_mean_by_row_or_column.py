@@ -1,5 +1,7 @@
-def reshape_matrix(matrix: list[list[float]], mode: str) -> list[float]:
-    mean: list[float] = []
+import numpy as np
+
+def calculate_matrix_mean(matrix: list[list[float]], mode: str) -> list[float]:
+	mean = []
     if mode == "row":
         for row in matrix:
             mean.append(sum(row) / len(row))

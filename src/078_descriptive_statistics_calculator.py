@@ -2,7 +2,6 @@ import numpy as np
 
 
 def descriptive_statistics(data):
-    # Your code here
     mean = np.mean(data)
     median = np.median(data)
     u, c = np.unique(data, return_counts=True)
