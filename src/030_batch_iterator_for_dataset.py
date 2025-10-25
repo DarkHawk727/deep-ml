@@ -12,5 +12,14 @@ def batch_iterator(X: np.ndarray, y: Optional[np.ndarray] = None, batch_size: in
             out.append([X[start:end], y[start:end]])
         else:
             out.append([X[start:end]])
-        
+
     return out
+
+
+print(
+    batch_iterator(
+        X=np.array([[1, 2], [3, 4], [5, 6], [7, 8], [9, 10]]),
+        y=np.array([1, 2, 3, 4, 5]),
+        batch_size=2,
+    )
+)  # [[[[1, 2], [3, 4]], [1, 2]], [[[5, 6], [7, 8]], [3, 4]], [[[9, 10]], [5]]]

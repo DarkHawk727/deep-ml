@@ -9,3 +9,6 @@ def calculate_eigenvalues(matrix: list[list[float|int]]) -> list[float]:
     lambda_2 = (trace(matrix) + (trace(matrix)**2 - 4*1*det(matrix))**0.5) / (2.0 * 1.0)
 
     return sorted([lambda_1, lambda_2], reverse=True)
+
+
+print(calculate_eigenvalues(matrix=[[2, 1], [1, 2]]))  # [3.0, 1.0]

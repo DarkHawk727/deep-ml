@@ -1,6 +1,4 @@
-def matrix_dot_vector(a: list[list[int|float]], b: list[int|float]) -> list[int|float]:
-	# Return a list where each element is the dot product of a row of 'a' with 'b'.
-	# If the number of columns in 'a' does not match the length of 'b', return -1.
+def matrix_dot_vector(a: list[list[int|float]], b: list[int|float]) -> list[int|float] | int:
 	if len(a) != len(b):
 		return -1
 	else:
@@ -11,3 +9,6 @@ def matrix_dot_vector(a: list[list[int|float]], b: list[int|float]) -> list[int|
 				s += elem1 * elem2
 			out.append(s)
 		return out
+
+
+print (matrix_dot_vector(a=[[1, 2], [2, 4]], b=[1, 2])) # [5, 10]

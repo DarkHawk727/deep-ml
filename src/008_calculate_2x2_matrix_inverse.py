@@ -1,4 +1,4 @@
-def inverse_2x2(matrix: list[list[float]]) -> list[list[float]]:
+def inverse_2x2(matrix: list[list[float]]) -> list[list[float]] | None:
     det = lambda A: A[0][0] * A[1][1] - A[0][1] * A[1][0]
 
     if det(matrix) == 0:
@@ -9,3 +9,6 @@ def inverse_2x2(matrix: list[list[float]]) -> list[list[float]]:
             [1.0 / det(matrix) * d, 1.0 / det(matrix) * -b],
             [1.0 / det(matrix) * -c, 1.0 / det(matrix) * a],
         ]
+
+
+print(inverse_2x2(matrix=[[4, 7], [2, 6]]))

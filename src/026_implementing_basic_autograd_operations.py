@@ -63,3 +63,14 @@ class Value:
         self.grad = 1
         for v in reversed(topo):
             v._backward()
+
+
+a = Value(2)
+b = Value(-3)
+c = Value(10)
+d = a + b * c
+e = d.relu()
+e.backward()
+print(
+    a, b, c, d, e
+)  # Value(data=2, grad=0) Value(data=-3, grad=0) Value(data=10, grad=0)

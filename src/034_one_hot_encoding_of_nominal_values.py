@@ -6,3 +6,6 @@ def to_categorical(x: np.ndarray, n_col=None) -> np.ndarray:
     out[np.arange(x.size), x] = 1
 
     return out
+
+
+print(to_categorical(x = np.array([0, 1, 2, 1, 0]))) # [[1, 0, 0], [0, 1, 0], [0, 0, 1], [0, 1, 0], [1, 0, 0]]

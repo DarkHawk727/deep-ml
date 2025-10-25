@@ -14,6 +14,4 @@ def solve_jacobi(A: np.ndarray, b: np.ndarray, n: int) -> list:
     return np.round(x, 4).tolist()
 
 
-A = np.array([[5, -2, 3], [-3, 9, 1], [2, -1, -7]])
-b = np.array([-1, 2, 3])
-print(solve_jacobi(A, b, 2))
+print(solve_jacobi(A=np.array([[5, -2, 3], [-3, 9, 1], [2, -1, -7]]), b=np.array([-1, 2, 3]), n=2))
