@@ -17,4 +17,4 @@ print(
         y_true=np.array([2, 3, 4, 5]),
         alpha=0.1,
     )
-)
+)  # 2.204

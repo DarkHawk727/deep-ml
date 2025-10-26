@@ -42,7 +42,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [ ] Simple Convolutional 2D Layer
         - [ ] GPT-2 Text Generation
     5. Backpropagation
-        - [ ] Single Neuron with Backpropagation
+        - [X] [Single Neuron with Backpropagation](src/025_single_neuron_with_backpropogation.py)
         - [X] [Implementing Basic Autograd Operations](src/026_implementing_basic_autograd_operations.py)
         - [ ] Implement a Simple RNN with Backpropagation Through Time (BPTT)
     6. LLM
@@ -52,7 +52,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [ ] Implement Multi-Head Attention
         - [ ] GPT-2 Text Generation
 2. **DenseNet**
-   - [ ] Single Neuron with Backpropagation
+   - [X] [Single Neuron with Backpropagation](src/025_single_neuron_with_backpropogation.py)
    - [ ] Simple Convolutional 2D Layer
    - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
    - [ ] Implement a Simple Residual Block with Shortcut Connection
@@ -63,7 +63,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
    1. Vector Spaces
         - [X] [Matrix-Vector Dot Product](src/001_matrix_vector_dot_product.py)
         - [X] [Transpose of a Matrix](src/002_transpose_of_a_matrix.py)
-        - [ ] Convert Vector to Diagonal Matrix
+        - [X] [Convert Vector to Diagonal Matrix](src/035_convert_vector_to_diagonal_matrix.py)
         - [X] [Dot Product Calculator](src/083_dot_product_calculator.py)
         - [ ] Find the Image of a Matrix Using Row Echelon Form
         - [X] [Calculate Cosine Similarity Between Vectors](src/076_calculate_cosine_similarity_between_vectors.py)
@@ -73,7 +73,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [ ] Implement Compressed Row Sparse Matrix (CSR) Format Conversion
         - [ ] Implement Orthogonal Projection of a Vector onto a Line
         - [ ] Implement Compressed Column Sparse Matrix Format (CSC)
-        - [X] Transformation Matrix from Basis B to C
+        - [X] [Transformation Matrix from Basis B to C](src/027_transformation_matrix_from_basis_B_to_C.py)
         - [X] [Matrix Transformation](src/007_matrix_transformation.py)
         - [X] [Calculate 2x2 Matrix Inverse](src/008_calculate_2x2_matrix_inverse.py)
         - [X] [Matrix times Matrix](src/009_matrix_times_matrix.py)
@@ -139,12 +139,12 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] [Single Neuron](src/024_single_neuron.py)
         - [X] [Sigmoid Activation Function Understanding](src/022_sigmoid_activation_function_understanding.py)
         - [X] [Softmax Activation Function Implementation](src/023_softmax_activation_function_implementation.py)
-        - [X] Implementation of Log Softmax
-        - [X] Implement ReLU Activation Function
+        - [X] [Implementation of Log Softmax](src/039_implementation_of_log_softmax_function.py)
+        - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
         - [ ] Simple Convolutional 2d Layer
         - [ ] Implementation a Simple RNN
 5. **ResNet**
-    - [ ] Single Neuron with Backpropagation
+    - [X] [Single Neuron with Backpropagation](src/025_single_neuron_with_backpropogation.py)
     - [ ] Simple Convolutional 2D Layer
     - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
     - [ ] Implement a Simple Residual Block with Shortcut Connection
@@ -182,7 +182,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
    4. Model Evaluation & Metrics
         - [ ] Calculate F1 Score from Predict and True Labels
-        - [ ] Calculate Accuracy Score
+        - [X] [Calculate Accuracy Score](src/036_calculate_accuracy_score.py)
         - [ ] Calculate Root Mean Square Error (RMSE)
         - [ ] Calculate Mean Absolute Error (MAE)
         - [X] [Implement Precision Metric](src/046_implement_precision_metric.py)
@@ -200,7 +200,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
     4. Matrix Multiplication
         - [X] [Matrix times Matrix](src/009_matrix_times_matrix.py)
     5. Determinant
-        - [X] [Determinant of a 4x4 Matrix using Laplace's Expansion]
+        - [ ] Determinant of a 4x4 Matrix using Laplace's Expansion
     6. Inverse Matrices
         - [X] [Calculate 2x2 Matrix Inverse](src/008_calculate_2x2_matrix_inverse.py)
         - [ ] Implement Reduced Row Echelon Form (RREF) Function
@@ -218,9 +218,9 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
     - [X] [Softmax Activation Function Implementation](src/023_softmax_activation_function_implementation.py)
     - [X] [Implement Basic Autograd Operations](src/026_implementing_basic_autograd_operations.py)
     - [X] [Single Neuron](src/024_single_neuron.py)
-    - [ ] Single Neuron with Backpropagation
+    - [X] [Single Neuron with Backpropagation](src/025_single_neuron_with_backpropogation.py)
 11. **Optimizers**
-    - [ ] Implement Gradient Descent Variants with MSE Loss
+    - [ ] [Implement Gradient Descent Variants with MSE Loss](src/047_implement_gradient_descent_variants_with_MSE_loss.py)
     - [ ] Implement Adam Optimization Algorithm
     - [ ] Adagrad Optimizer
     - [ ] Momentum Optimizer
