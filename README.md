@@ -114,7 +114,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [ ] Generate a Confusion Matrix for Binary Classification
         - [X] [Calculate Accuracy Score](src/036_calculate_accuracy_score.py)
         - [X] [Implement Precision Metric](src/046_implement_precision_metric.py)
-        - [ ] Implement Recall Metric in Binary Classification
+        - [X] [Implement Recall Metric in Binary Classification](src/052_implement_recall_metric_in_binary_classification.py)
         - [ ] Implement F-Score Calculation for Binary Classification
         - [ ] Calculate R-squared for Regression Analysis
         - [ ] Calculate Mean Absolute Error
