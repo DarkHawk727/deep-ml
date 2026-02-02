@@ -181,7 +181,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] [Single Neuron](src/024_single_neuron.py)
         - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
    4. Model Evaluation & Metrics
-        - [ ] Calculate F1 Score from Predict and True Labels
+        - [X] [Calculate F1 Score from Predict and True Labels](src/091_calculate_f1_score_from_predicted_and_true_labels.py)
         - [X] [Calculate Accuracy Score](src/036_calculate_accuracy_score.py)
         - [ ] Calculate Root Mean Square Error (RMSE)
         - [ ] Calculate Mean Absolute Error (MAE)
