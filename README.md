@@ -118,7 +118,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [ ] Implement F-Score Calculation for Binary Classification
         - [ ] Calculate R-squared for Regression Analysis
         - [ ] Calculate Mean Absolute Error
-        - [ ] Calculate Root Mean Square Error
+        - [ ] [Calculate Root Mean Square Error (RMSE)](src/071_calculate_root_mean_square_error.py)
         - [ ] Implement K-Fold Cross-Validation
         - [ ] Calculate Performance Metrics for a Classification Model
         - [X] [Implementation of Log Softmax Function](src/039_implementation_of_log_softmax_function.py)
@@ -183,7 +183,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
    4. Model Evaluation & Metrics
         - [X] [Calculate F1 Score from Predict and True Labels](src/091_calculate_f1_score_from_predicted_and_true_labels.py)
         - [X] [Calculate Accuracy Score](src/036_calculate_accuracy_score.py)
-        - [ ] Calculate Root Mean Square Error (RMSE)
+        - [X] [Calculate Root Mean Square Error (RMSE)](src/071_calculate_root_mean_square_error.py)
         - [ ] Calculate Mean Absolute Error (MAE)
         - [X] [Implement Precision Metric](src/046_implement_precision_metric.py)
         - [ ] Detect Overfitting or Underfitting
