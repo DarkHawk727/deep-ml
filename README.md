@@ -132,9 +132,9 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [ ] Implement AdaBoost Fit Method
         - [X] [Softmax Activation Function Implementation](src/023_softmax_activation_function_implementation.py)
     6. Unsupervised Learning
-        - [ ] KL Divergence Between Two Normal Distributions
+        - [X] [KL Divergence Between Two Normal Distributions](src/056_KL_divergence_between_two_normal_distributions.py)
         - [ ] Principal Component Analysis (PCA) Implementation
-        - [ ] K-Means Clustering
+        - [X] [K-Means Clustering](src/017_k_means_clustering.py)
     7. Deep Learning
         - [X] [Single Neuron](src/024_single_neuron.py)
         - [X] [Sigmoid Activation Function Understanding](src/022_sigmoid_activation_function_understanding.py)
