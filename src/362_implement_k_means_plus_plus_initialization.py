@@ -1,7 +1,7 @@
 import numpy as np
 
 
-def kmeans_plus_plus_init(X: np.ndarray, k: int, seed: int = None) -> np.ndarray:
+def kmeans_plus_plus_init(X: np.ndarray, k: int, seed: int = 42) -> np.ndarray:
     np.random.seed(seed)
 
     centroids = np.zeros((k, X.shape[1]))
