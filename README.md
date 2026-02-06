@@ -70,7 +70,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
    2. Matrix Operations
         - [X] [Reshape Matrix](src/003_reshape_matrix.py)
         - [X] [Scalar Multiplication of a Matrix](src/005_scalar_multiplication_of_matrix.py)
-        - [ ] Implement Compressed Row Sparse Matrix (CSR) Format Conversion
+        - [X] [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](src/065_implement_compressed_row_sparse_matrix_format_conversion.py)
         - [ ] Implement Orthogonal Projection of a Vector onto a Line
         - [ ] Implement Compressed Column Sparse Matrix Format (CSC)
         - [X] [Transformation Matrix from Basis B to C](src/027_transformation_matrix_from_basis_B_to_C.py)
