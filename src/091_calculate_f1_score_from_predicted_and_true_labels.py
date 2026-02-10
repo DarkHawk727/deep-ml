@@ -11,11 +11,7 @@ def calculate_f1_score(y_true: list[int], y_pred: list[int]) -> float:
     precision: float = tp / (tp + fp) if tp + fp != 0.0 else 0.0
     recall: float = tp / (tp + fn) if tp + fn != 0.0 else 0.0
 
-    f1_score = (
-        2.0 * (precision * recall) / ((1.0 * precision) + recall)
-        if precision + recall != 0
-        else 0.0
-    )
+    f1_score = 2.0 * (precision * recall) / ((1.0 * precision) + recall) if precision + recall != 0 else 0.0
     return round(f1_score, 3)
 
 

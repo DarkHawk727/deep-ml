@@ -20,7 +20,5 @@ def kmeans_plus_plus_init(X: np.ndarray, k: int, seed: int = 42) -> np.ndarray:
 
 
 print(
-    kmeans_plus_plus_init(
-        np.array([[0.0, 0.0], [10.0, 0.0], [0.0, 10.0], [10.0, 10.0]]), 2, seed=42
-    ).tolist()
+    kmeans_plus_plus_init(np.array([[0.0, 0.0], [10.0, 0.0], [0.0, 10.0], [10.0, 10.0]]), 2, seed=42).tolist()
 )  # [[0.0, 10.0], [10.0, 10.0]]

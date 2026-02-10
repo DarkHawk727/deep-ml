@@ -8,4 +8,4 @@ def to_categorical(x: np.ndarray, n_col=None) -> np.ndarray:
     return out
 
 
-print(to_categorical(x = np.array([0, 1, 2, 1, 0]))) # [[1, 0, 0], [0, 1, 0], [0, 0, 1], [0, 1, 0], [1, 0, 0]]
+print(to_categorical(x=np.array([0, 1, 2, 1, 0])))  # [[1, 0, 0], [0, 1, 0], [0, 0, 1], [0, 1, 0], [1, 0, 0]]

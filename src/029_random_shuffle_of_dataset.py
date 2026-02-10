@@ -10,4 +10,4 @@ def shuffle_data(X: np.ndarray, y: np.ndarray, seed=None) -> tuple[np.ndarray, n
 
 print(
     shuffle_data(X=np.array([[1, 2], [3, 4], [5, 6], [7, 8]]), y=np.array([1, 2, 3, 4]))
-) # (np.array([[5, 6], [1, 2], [7, 8],[3, 4]]), np.array([3, 1, 4, 2]))
+)  # (np.array([[5, 6], [1, 2], [7, 8],[3, 4]]), np.array([3, 1, 4, 2]))

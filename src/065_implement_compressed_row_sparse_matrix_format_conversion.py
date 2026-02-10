@@ -1,6 +1,4 @@
-def compressed_row_sparse_matrix(
-    dense_matrix: list[list[float]],
-) -> tuple[list[float], list[int], list[int]]:
+def compressed_row_sparse_matrix(dense_matrix: list[list[float]]) -> tuple[list[float], list[int], list[int]]:
     vals: list[int | float] = []
     indices: list[int] = []
     indptr: list[int] = [0]
@@ -17,9 +15,7 @@ def compressed_row_sparse_matrix(
 
 
 print(
-    *compressed_row_sparse_matrix(
-        [[1, 0, 0, 0], [0, 2, 0, 0], [3, 0, 4, 0], [1, 0, 0, 5]]
-    ),
+    *compressed_row_sparse_matrix([[1, 0, 0, 0], [0, 2, 0, 0], [3, 0, 4, 0], [1, 0, 0, 5]]),
     sep="\n",
 )
 """

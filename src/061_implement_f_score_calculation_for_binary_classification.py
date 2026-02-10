@@ -9,9 +9,7 @@ def f_score(y_true: np.ndarray, y_pred: np.ndarray, beta: float) -> float:
     precision: float = tp / (tp + fp)
     recall: float = tp / (tp + fn)
 
-    return round(
-        (1.0 + beta**2) * (precision * recall) / ((beta**2 * precision) + recall), 3
-    )
+    return round((1.0 + beta**2) * (precision * recall) / ((beta**2 * precision) + recall), 3)
 
 
 print(f_score(np.array([1, 0, 1, 1, 0, 1]), np.array([1, 0, 1, 0, 0, 1]), 1.0))

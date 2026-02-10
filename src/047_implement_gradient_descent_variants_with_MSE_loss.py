@@ -1,7 +1,15 @@
 import numpy as np
 
 
-def gradient_descent(X: np.ndarray, y: np.ndarray, weights: np.ndarray, learning_rate: float, n_iterations: int, batch_size: int = 1, method="batch"):
+def gradient_descent(
+    X: np.ndarray,
+    y: np.ndarray,
+    weights: np.ndarray,
+    learning_rate: float,
+    n_iterations: int,
+    batch_size: int = 1,
+    method="batch",
+):
     m, d = X.shape
     if method == "batch":
         for _ in range(n_iterations):

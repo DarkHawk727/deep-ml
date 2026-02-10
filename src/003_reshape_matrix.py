@@ -1,14 +1,14 @@
 import numpy as np
 
 
-def reshape_matrix(a: list[list[int|float]], new_shape: tuple[int, int]) -> list[list[int|float]]:
-	a_np = np.array(a)
-	try:
-		reshaped_matrix = a_np.reshape(new_shape).tolist()
-	except ValueError:
-		reshaped_matrix =  []
-	
-	return reshaped_matrix
+def reshape_matrix(a: list[list[int | float]], new_shape: tuple[int, int]) -> list[list[int | float]]:
+    a_np = np.array(a)
+    try:
+        reshaped_matrix = a_np.reshape(new_shape).tolist()
+    except ValueError:
+        reshaped_matrix = []
+
+    return reshaped_matrix
 
 
-print(reshape_matrix(a=[[1,2,3,4],[5,6,7,8]], new_shape=(4, 2)))  # [[1, 2], [3, 4], [5, 6], [7, 8]]
+print(reshape_matrix(a=[[1, 2, 3, 4], [5, 6, 7, 8]], new_shape=(4, 2)))  # [[1, 2], [3, 4], [5, 6], [7, 8]]
