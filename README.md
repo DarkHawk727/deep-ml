@@ -26,7 +26,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] [Calculate Covariance Matrix](src/010_calculate_covariance_matrix.py)
     3. Optimization Techniques
         - [X] [Linear Regression Using Gradient Descent](src/015_linear_regression_using_gradient_descent.py)
-        - [ ] Implement Gradient Descent Variants with MSE Loss
+        - [X] [Implement Gradient Descent Variants with MSE Loss](src/047_implement_gradient_descent_variants_with_MSE_loss.py)
         - [ ] Implement Adam Optimization Algorithm
         - [ ] Implement Lasso Regression using Gradient Descent
     4. Fundamentals of Neural Networks
@@ -48,7 +48,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
     6. LLM
         - [ ] Implement Self-Attention Mechanism
         - [ ] The Pattern Weaver's Code
-        - [ ] Positional Encoding Calculator
+        - [X] [Positional Encoding Calculator](src/085_positional_encoding_calculator.py)
         - [ ] Implement Multi-Head Attention
         - [ ] GPT-2 Text Generation
 2. **DenseNet**
@@ -107,19 +107,19 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] [Calculate Covariance Matrix](src/010_calculate_covariance_matrix.py)
     3. Optimization
         - [X] [Linear Regression Using Gradient Descent](src/015_linear_regression_using_gradient_descent.py)
-        - [ ] [Implement Gradient Descent Variants with MSE Loss](src/047_implement_gradient_descent_variants_with_MSE_loss.py)
+        - [X] [Implement Gradient Descent Variants with MSE Loss](src/047_implement_gradient_descent_variants_with_MSE_loss.py)
         - [ ] Implement Adam Optimization Algorithm
         - [ ] Implement Lasso Regression using Gradient Descent
     4. Model Evaluation
-        - [ ] Generate a Confusion Matrix for Binary Classification
+        - [X] [Generate a Confusion Matrix for Binary Classification](src/075_generate_a_confusion_matrix_for_binary_classification.py)
         - [X] [Calculate Accuracy Score](src/036_calculate_accuracy_score.py)
         - [X] [Implement Precision Metric](src/046_implement_precision_metric.py)
         - [X] [Implement Recall Metric in Binary Classification](src/052_implement_recall_metric_in_binary_classification.py)
-        - [ ] Implement F-Score Calculation for Binary Classification
-        - [ ] Calculate R-squared for Regression Analysis
+        - [X] I[mplement F-Score Calculation for Binary Classification](src/061_implement_f_score_calculation_for_binary_classification.py)
+        - [X] [Calculate R-squared for Regression Analysis](src/069_calculate_r-squared_for_regression_analysis.py)
         - [ ] Calculate Mean Absolute Error
-        - [ ] [Calculate Root Mean Square Error (RMSE)](src/071_calculate_root_mean_square_error.py)
-        - [ ] Implement K-Fold Cross-Validation
+        - [X] [Calculate Root Mean Square Error (RMSE)](src/071_calculate_root_mean_square_error.py)
+        - [X] [Implement K-Fold Cross-Validation](src/018_implement_k_fold_cross_validation.py)
         - [ ] Calculate Performance Metrics for a Classification Model
         - [X] [Implementation of Log Softmax Function](src/039_implementation_of_log_softmax_function.py)
         - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
@@ -127,7 +127,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] [Linear Regression Using Normal Equation](src/014_linear_regression_using_normal_equation.py)
         - [X] [Linear Regression Using Gradient Descent](src/015_linear_regression_using_gradient_descent.py)
         - [ ] Binary Classification with Logistic Regression
-        - [ ] Calculate Jaccard Index for Binary Classification
+        - [ ] [Calculate Jaccard Index for Binary Classification](src/072_calculate_jaccard_index_for_binary_classification.py)
         - [ ] Pegasos Kernel SVM Implementation
         - [ ] Implement AdaBoost Fit Method
         - [X] [Softmax Activation Function Implementation](src/023_softmax_activation_function_implementation.py)
@@ -161,7 +161,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
     - [ ] Implement Multi-Head Attention
     - [ ] Implement Masked Self-Attention
     - [ ] Implement Layer Normalization for Sequence Data
-    - [ ] Positional Encoding Calculator
+    - [X] [Positional Encoding Calculator](src/085_positional_encoding_calculator.py)
 8. **Data Science I Interview Prep**
    1. Core Machine Learning Concepts
         - [X] [Linear Regression Using Gradient Descent](src/015_linear_regression_using_gradient_descent.py)
