@@ -1,7 +1,18 @@
+from typing import Callable
+
 import numpy as np
 
 
-def adam_optimizer(f, grad, x0, learning_rate=0.001, beta1=0.9, beta2=0.999, epsilon=1e-8, num_iterations=10):
+def adam_optimizer(
+    f: Callable[[np.ndarray], np.ndarray],
+    grad: Callable[[np.ndarray], np.ndarray],
+    x0: np.ndarray,
+    learning_rate=0.001,
+    beta1=0.9,
+    beta2=0.999,
+    epsilon=1e-8,
+    num_iterations=10,
+):
     theta = np.array(x0, dtype=float, copy=True)
     m_t = np.zeros_like(x0)
     v_t = np.zeros_like(x0)
