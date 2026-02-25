@@ -161,7 +161,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
    3. Eigenvalues and Eigenvectors
         - [X] [Calculate Eigenvalues of a Matrix](src/006_calculate_eigenvalues_of_a_matrix.py)
         - [X] [Solve Linear Equations using Jacobi Method](src/011_solve_linear_equations_using_jacobi_method.py)
-        - [ ] Principal Component Analysis (PCA) Implementation
+        - [X] [Principal Component Analysis (PCA) Implementation](src/019_principal_component_analysis_implementation.py)
         - [ ] Singular Value Decomposition (SVD) of a 2x2 Matrix using Eigenvalues and Eigenvectors
    4. Matrix Factorization and Decomposition
         - [ ] 2D Translation of Matrix Implementation
@@ -195,7 +195,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] [Calculate Accuracy Score](src/036_calculate_accuracy_score.py)
         - [X] [Implement Precision Metric](src/046_implement_precision_metric.py)
         - [X] [Implement Recall Metric in Binary Classification](src/052_implement_recall_metric_in_binary_classification.py)
-        - [X] I[mplement F-Score Calculation for Binary Classification](src/061_implement_f_score_calculation_for_binary_classification.py)
+        - [X] [Implement F-Score Calculation for Binary Classification](src/061_implement_f_score_calculation_for_binary_classification.py)
         - [X] [Calculate R-squared for Regression Analysis](src/069_calculate_r-squared_for_regression_analysis.py)
         - [X] [Calculate Mean Absolute Error (MAE)](src/093_calculate_mean_absolute_error.py)
         - [X] [Calculate Root Mean Square Error (RMSE)](src/071_calculate_root_mean_square_error.py)
@@ -213,7 +213,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] [Softmax Activation Function Implementation](src/023_softmax_activation_function_implementation.py)
     6. Unsupervised Learning
         - [X] [KL Divergence Between Two Normal Distributions](src/056_KL_divergence_between_two_normal_distributions.py)
-        - [ ] Principal Component Analysis (PCA) Implementation
+        - [X] [Principal Component Analysis (PCA) Implementation](src/019_principal_component_analysis_implementation.py)
         - [X] [K-Means Clustering](src/017_k_means_clustering.py)
     7. Deep Learning
         - [X] [Single Neuron](src/024_single_neuron.py)
