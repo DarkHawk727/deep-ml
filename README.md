@@ -9,7 +9,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
 
 1. **AlexNet**
     - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
-    - [ ] Simple Convolutional 2D Layer
+    - [X] [Simple Convolutional 2D Layer](src/041_simple_convolutional_2d_layer.py)
     - [ ] Overlapping Max Pooling
     - [ ] PCA Colour Augmentation
     - [ ] Dropout Layer
@@ -51,7 +51,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] [Single Neuron](src/024_single_neuron.py)
         - [ ] Implementing a Simple RNN
         - [ ] Implement a Long Short-Term Memory (LSTM) Network
-        - [ ] Simple Convolutional 2D Layer
+        - [X] [Simple Convolutional 2D Layer](src/041_simple_convolutional_2d_layer.py)
         - [ ] GPT-2 Text Generation
     5. Backpropagation
         - [X] [Single Neuron with Backpropagation](src/025_single_neuron_with_backpropogation.py)
@@ -71,7 +71,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
     - [ ] Knowledge Distillation Loss
 5. **DenseNet**
     - [X] [Single Neuron with Backpropagation](src/025_single_neuron_with_backpropogation.py)
-    - [ ] Simple Convolutional 2D Layer
+    - [X] [Simple Convolutional 2D Layer](src/041_simple_convolutional_2d_layer.py)
     - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
     - [ ] Implement a Simple Residual Block with Shortcut Connection
     - [ ] Implement Global Average Pooling
@@ -221,7 +221,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [X] [Softmax Activation Function Implementation](src/023_softmax_activation_function_implementation.py)
         - [X] [Implementation of Log Softmax](src/039_implementation_of_log_softmax_function.py)
         - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
-        - [ ] Simple Convolutional 2d Layer
+        - [X] [Simple Convolutional 2d Layer](src/041_simple_convolutional_2d_layer.py)
         - [ ] Implementation a Simple RNN
 10. **Metadata Normalization (MDN)**
     1. Mathematical Prerequisites
@@ -239,7 +239,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
         - [ ] Feature Deconfounder for Biased Image Data
 11. **ResNet**
     - [X] [Single Neuron with Backpropagation](src/025_single_neuron_with_backpropogation.py)
-    - [ ] Simple Convolutional 2D Layer
+    - [X] [Simple Convolutional 2D Layer](src/041_simple_convolutional_2d_layer.py)
     - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
     - [ ] Implement a Simple Residual Block with Shortcut Connection
     - [ ] Implement Global Average Pooling
