@@ -311,7 +311,7 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
     - [X] [Implement Gradient Descent Variants with MSE Loss](src/047_implement_gradient_descent_variants_with_MSE_loss.py)
     - [X] [Implement Adam Optimization Algorithm](src/049_implement_adam_optimization_algorithm.py)
     - [ ] Adagrad Optimizer
-    - [ ] Momentum Optimizer
+    - [X] [Momentum Optimizer](src/146_momentum_optimizer.py)
     - [ ] Adamax Optimizer
     - [ ] Adadelta Optimizer
     - [ ] Nesterov Accelerated Gradient Optimizer
