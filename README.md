@@ -315,4 +315,4 @@ A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.c
     - [ ] Adamax Optimizer
     - [ ] Adadelta Optimizer
     - [ ] Nesterov Accelerated Gradient Optimizer
-    - [ ] Find Captain Redbeard's Hidden Treasure
+    - [X] [Find Captain Redbeard's Hidden Treasure](src/127_find_captain_redbeards_hidden_treasure.py)
