@@ -1,6 +1,6 @@
 # Deep ML
 
-A repository for my solutions to the problems on [Deep-ML](https://www.deep-ml.com/), a site for LeetCode-style questions for machine learning and data science. For each problem, I decided to use either `numpy` or pure Python, depending on the type signature of the method, i.e. if the method takes in 2 `np.array`s, then I use `numpy`, else Python.
+A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/), a site for LeetCode-style questions for machine learning and data science. For each problem, I decided to use either `numpy` or pure Python, depending on the type signature of the method, i.e. if the method takes in 2 `np.array`s, then I use `numpy`, else Python.
 
 ## Collections
 
