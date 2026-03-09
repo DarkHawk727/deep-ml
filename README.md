@@ -93,7 +93,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Softmax Activation Function Implementation](src/023_softmax_activation_function_implementation.py)
         - [ ] Implement RMSNorm (Root Mean Square Layer Normalization)
    6. Lab: Build a Neural Network from Scratch
-        - [ ] MNIST: Build Neural NEtwork from Scratch (NumPy Only)
+        - [ ] MNIST: Build Neural NEtwork from Scratch (`numpy` Only)
    7. Multi-Head Attention & KV Cache
         - [ ] Implement Self-Attention Mechanism
         - [ ] Implement Masked Self-Attention
@@ -114,7 +114,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Implement Adam Optimization Algorithm](src/049_implement_adam_optimization_algorithm.py)
         - [ ] Linear Learning Rate Decay
    13. Lab: Optimizer
-        - [ ] Design Your Own Optimizer (NumPy)
+        - [ ] Design Your Own Optimizer (`numpy`)
    14. Training Loop (Putting It All Together)
         - [ ] Calculate Number of Parameters in Neural Network
    15. Lab: Full Training Loop
@@ -316,3 +316,68 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
     - [ ] Adadelta Optimizer
     - [ ] Nesterov Accelerated Gradient Optimizer
     - [X] [Find Captain Redbeard's Hidden Treasure](src/127_find_captain_redbeards_hidden_treasure.py)
+
+## Labs
+
+- [ ] MNIST: Pytorch DataLoader
+- [ ] MNIST: Design-Your-Own tiny Pytorch Model
+- [ ] MNIST: Design Your Own Pytorch Optimizer
+- [ ] MNIST: Classification Loss (with Gradient)
+- [ ] MNIST: Adversarial Example Generation
+- [ ] MNIST: Build Neural Network from Scratch (`numpy` Only)
+- [ ] MNIST: Fix Very Deep Network Training
+- [ ] Design Your Own Optimizer (`numpy`)
+- [X] [Design Your Own Activation Function](src/l09_design_your_own_activation_function.py)
+- [ ] Design Your Own Attention Mechanism
+- [ ] Data Preprocessing: Handling Missing Values
+- [ ] PyTorch: Implement Your Own Gradient Descent Training Step
+- [ ] PyTorch: Build a Complete Training Loop
+- [ ] Numpy: Design Your Own Dimensionality Reduction
+- [ ] Dimensionality Reduction with Sklearn
+- [ ] Feature Deconfounder for Biased Image Data
+- [ ] Train a Linear Regression Model
+- [ ] Build a Tokenizer for Language Modeling
+- [ ] Build a Digit Classifier from Scratch
+- [ ] Fix Overfitting with Regularization (`numpy`)
+- [ ] Fix Overfitting with Regularization (Sklearn)
+- [ ] Train a Binary Classifier
+- [ ] Design Your Own Normalization Layer
+- [ ] Design Your Own MoE Router
+
+## Learning Paths
+
+1. Calculus for Machine Learning
+    1. Derivatives and Gradients
+        - [X] [Derivative of a Polynomial](src/116_derivative_of_a_polynomial.py)
+        - [X] [Product Rule for Derivatives](src/309_product_rule_for_derivatives.py)
+        - [X] [Quotient Rule for Derivatives](src/312_quotient_rule_for_derivatives.py)
+        - [X] [Gradient Direction and Magnitude](src/308_gradient_direction_and_magnitude.py)
+    2. Multivariate Calculus
+        - [X] [Partal Derivatives of Multivariable Functions](src/215_partial_derivatives_of_multivariable_functions.py)
+        - [X] [Chain Rule for Composite Functions](src/214_chain_rule_for_composite_functions.py)
+        - [X] [Jacobian Matrix Calculation](src/202_jacobian_matrix_calculation.py)
+        - [X] [Compute the Hessian Matrix](src/218_compute_the_hessian_matrix.py)
+    3. Neural Network Derivatives
+        - [X] [Derivatives of Activation Functions](src/217_derivatives_of_activation_functions.py)
+        - [X] [Derivative of Softmax](src/219_derivative_of_softmax.py)
+        - [X] [Derivative of Cross-Entropy Loss w.r.t Logits](src/220_derivative_of_cross_entropy_loss_wrt_logits.py)
+    4. Backpropagation
+        - [X] [Single Neuron with Backpropagation](src/025_single_neuron_with_backpropogation.py)
+        - [X] [Implementing Basic Autograd Operations](src/026_implementing_basic_autograd_operations.py)
+        - [X] [Numerical Gradient Checking](src/313_numerical_gradient_checking.py)
+    5. Gradient Descent
+        - [X] [Linear Regression using Gradient Descent](src/015_linear_regression_using_gradient_descent.py)
+        - [X] [Implement Gradient Descent Variants with MSE Loss](src/047_implement_gradient_descent_variants_with_MSE_loss.py)
+        - [X] [Taylor Series Approximation](src/310_taylor_series_approximation.py)
+        - [X] [Momentum Optimizer](src/146_momentum_optimizer.py)
+    6. Optimization
+        - [X] [Find Captain Redbeard's Hidden Treasure](src/127_find_captain_redbeards_hidden_treasure.py)
+        - [X] [Newton's Method for Optimization](src/221_newtons_method_for_optimization.py)
+        - [X] [Classify Critical Points Using Hessian Eigenvalues](src/311_classify_critical_points_using_hessian_eigenvalues.py)
+        - [X] [Lagrange Multipliers for Constrained Quadratic Optimization](src/314_lagrange_multipliers_for_constrained_quadratic_optimization.py)
+    7. Calculus Lab
+        - [ ] MNIST: Classification Loss (with Gradient)
+    8. Pytorch: Calculus Lab 1
+    9. Pytorch: Calculus Lab 2
+2. Linear Algebra for Machine Learning
+3. Probability and Statistics for Machine Learning
