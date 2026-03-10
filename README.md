@@ -145,7 +145,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Transpose of a Matrix](src/002_transpose_of_a_matrix.py)
         - [X] [Convert Vector to Diagonal Matrix](src/035_convert_vector_to_diagonal_matrix.py)
         - [X] [Dot Product Calculator](src/083_dot_product_calculator.py)
-        - [ ] Find the Image of a Matrix Using Row Echelon Form
+        - [X] [Find the Column Space of a Matrix](src/068_find_the_column_space_of_a_matrix.py)
         - [X] [Calculate Cosine Similarity Between Vectors](src/076_calculate_cosine_similarity_between_vectors.py)
    2. Matrix Operations
         - [X] [Reshape Matrix](src/003_reshape_matrix.py)
@@ -346,7 +346,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
 
 ## Learning Paths
 
-1. Calculus for Machine Learning
+1. **Calculus for Machine Learning**
     1. Derivatives and Gradients
         - [X] [Derivative of a Polynomial](src/116_derivative_of_a_polynomial.py)
         - [X] [Product Rule for Derivatives](src/309_product_rule_for_derivatives.py)
@@ -379,5 +379,5 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [ ] MNIST: Classification Loss (with Gradient)
     8. Pytorch: Calculus Lab 1
     9. Pytorch: Calculus Lab 2
-2. Linear Algebra for Machine Learning
-3. Probability and Statistics for Machine Learning
+2. **Linear Algebra for Machine Learning**
+3. **Probability and Statistics for Machine Learning**
