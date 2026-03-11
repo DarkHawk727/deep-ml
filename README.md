@@ -151,23 +151,23 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Reshape Matrix](src/003_reshape_matrix.py)
         - [X] [Scalar Multiplication of a Matrix](src/005_scalar_multiplication_of_matrix.py)
         - [X] [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](src/065_implement_compressed_row_sparse_matrix_format_conversion.py)
-        - [ ] Implement Orthogonal Projection of a Vector onto a Line
-        - [ ] Implement Compressed Column Sparse Matrix Format (CSC)
+        - [X] [Implement Orthogonal Projection of a Vector onto a Line](src/066_implement_orthogonal_projection_of_a_vector_onto_a_line.py)
+        - [X] [Implement Compressed Column Sparse Matrix Format (CSC)](src/067_implement_compressed_column_sparse_matrix_format.py)
         - [X] [Transformation Matrix from Basis B to C](src/027_transformation_matrix_from_basis_B_to_C.py)
         - [X] [Matrix Transformation](src/007_matrix_transformation.py)
         - [X] [Calculate 2x2 Matrix Inverse](src/008_calculate_2x2_matrix_inverse.py)
         - [X] [Matrix times Matrix](src/009_matrix_times_matrix.py)
-        - [ ] Implement Reduced Row Echelon Form (RREF) Function
+        - [X] [Implement Reduced Row Echelon Form (RREF) Function](src/048_implement_reduced_row_echelon_form_function.py)
    3. Eigenvalues and Eigenvectors
         - [X] [Calculate Eigenvalues of a Matrix](src/006_calculate_eigenvalues_of_a_matrix.py)
         - [X] [Solve Linear Equations using Jacobi Method](src/011_solve_linear_equations_using_jacobi_method.py)
         - [X] [Principal Component Analysis (PCA) Implementation](src/019_principal_component_analysis_implementation.py)
-        - [ ] Singular Value Decomposition (SVD) of a 2x2 Matrix using Eigenvalues and Eigenvectors
+        - [X] [SVD of a 2x2 Matrix](src/028_SVD_of_a_2x2_matrix.py)
    4. Matrix Factorization and Decomposition
-        - [ ] 2D Translation of Matrix Implementation
-        - [ ] Gauss-Seidel Method for Solving Linear Systems
-        - [ ] Singular Value Decomposition (SVD)
-        - [ ] Determinant of a 4x4 Matrix using Laplace's Expansion
+        - [X] [2D Translation of Matrix Implementation](src/055_2d_translation_matrix_implementation.py)
+        - [X] [Gauss-Seidel Method for Solving Linear Systems](src/057_gauss_seidel_method_for_solving_linear_systems.py)
+        - [X] [Singular Value Decomposition (SVD) of 2x2 Matrix](src/028_SVD_of_a_2x2_matrix.py)
+        - [X] [Determinant of a 4x4 Matrix using Laplace's Expansion](src/013_determinant_of_a_4x4_matrix_using_laplace_expansion.py)
 9. **Machine Learning**
     1. Linear Algebra
         - [X] [Matrix-Vector Dot Product](src/001_matrix_vector_dot_product.py)
