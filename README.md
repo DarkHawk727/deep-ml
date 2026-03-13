@@ -49,7 +49,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Leaky ReLU Activation Function](src/044_leaky_relu_activation_function.py)
         - [X] [Implement the PReLU Activation Function](src/098_implement_the_prelu_activation_function.py)
         - [X] [Single Neuron](src/024_single_neuron.py)
-        - [ ] Implementing a Simple RNN
+        - [X] [Implementing a Simple RNN](src/054_implementing_a_simple_rnn.py)
         - [ ] Implement a Long Short-Term Memory (LSTM) Network
         - [X] [Simple Convolutional 2D Layer](src/041_simple_convolutional_2d_layer.py)
         - [ ] GPT-2 Text Generation
@@ -91,7 +91,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
    5. Core Building Blocks (Linear, Softmax, RMSNorm)
         - [X] [Matrix-Vector Dot Product](src/001_matrix_vector_dot_product.py)
         - [X] [Softmax Activation Function Implementation](src/023_softmax_activation_function_implementation.py)
-        - [ ] Implement RMSNorm (Root Mean Square Layer Normalization)
+        - [X] [Implement RMSNorm (Root Mean Square Layer Normalization)](src/372_implement_rmsnorm.py)
    6. Lab: Build a Neural Network from Scratch
         - [ ] MNIST: Build Neural NEtwork from Scratch (`numpy` Only)
    7. Multi-Head Attention & KV Cache
@@ -222,7 +222,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Implementation of Log Softmax](src/039_implementation_of_log_softmax_function.py)
         - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
         - [X] [Simple Convolutional 2d Layer](src/041_simple_convolutional_2d_layer.py)
-        - [ ] Implementation a Simple RNN
+        - [X] [Implementing a Simple RNN](src/054_implementing_a_simple_rnn.py)
 10. **Metadata Normalization (MDN)**
     1. Mathematical Prerequisites
         - [X] [Linear Regression Using Normal Equation](src/014_linear_regression_using_normal_equation.py)
@@ -258,13 +258,13 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
          - [ ] Implement K-Nearest Neighbours
     2. Data Processing
          - [X] [One-Hot Encoding of Nominal Values](src/034_one_hot_encoding_of_nominal_values.py)
-         - [ ] Min-Max Normalization of Feature Values
+         - [X] [Min-Max Normalization of Feature Values](src/112_min_max_scaling_of_feature_values.py)
          - [X] [Implement K-Fold Cross-Validation](src/018_implement_k_fold_cross_validation.py)
          - [X] [Calculate Mean by Row or Column](src/004_calculate_mean_by_row_or_column.py)
          - [X] [Feature Scaling Implementation](src/016_feature_scaling_implementation.py)
     3. Deep Learning
          - [ ] Dropout Layer
-         - [ ] Min-Max Normalization of Feature Values
+         - [X] [Min-Max Normalization of Feature Values](src/112_min_max_scaling_of_feature_values.py)
          - [X] [Softmax Activation Function Function Implementation](src/023_softmax_activation_function_implementation.py)
          - [X] [Single Neuron](src/024_single_neuron.py)
          - [X] [Implement ReLU Activation Function](src/042_implement_relu_activation_function.py)
