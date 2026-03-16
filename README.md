@@ -322,7 +322,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
 - [ ] MNIST: Pytorch DataLoader
 - [ ] MNIST: Design-Your-Own tiny Pytorch Model
 - [ ] MNIST: Design Your Own Pytorch Optimizer
-- [ ] MNIST: Classification Loss (with Gradient)
+- [X] [MNIST: Classification Loss (with Gradient)](src/l04_mnist_classification_loss.py)
 - [ ] MNIST: Adversarial Example Generation
 - [ ] MNIST: Build Neural Network from Scratch (`numpy` Only)
 - [ ] MNIST: Fix Very Deep Network Training
@@ -376,8 +376,40 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Classify Critical Points Using Hessian Eigenvalues](src/311_classify_critical_points_using_hessian_eigenvalues.py)
         - [X] [Lagrange Multipliers for Constrained Quadratic Optimization](src/314_lagrange_multipliers_for_constrained_quadratic_optimization.py)
     7. Calculus Lab
-        - [ ] MNIST: Classification Loss (with Gradient)
+        - [X] [MNIST: Classification Loss (with Gradient)](src/l04_mnist_classification_loss.py)
     8. Pytorch: Calculus Lab 1
     9. Pytorch: Calculus Lab 2
 2. **Linear Algebra for Machine Learning**
+   1. Vector Operations
+        - [X] [Dot Product Calculator](src/083_dot_product_calculator.py)
+        - [X] [Vector Element-wise Sum](src/121_vector_element_wise_sum.py)
+        - [X] [Crompute the Cross Product](src/118_compute_the_cross_product_of_two_3D_vectors.py)
+        - [X] [Calculate Cosine Similarity](src/076_calculate_cosine_similarity_between_vectors.py)
+   2. Vector Norms and Independence
+        - [X] [Engram Context-Aware](src/327_engram_context_aware_gating.py)
+        - [X] [Compute the Null Space of a Matrix](src/330_compute_the_null_space_of_a_matrix.py)
+   3. Matrix Basics
+        - [X] [Transpose of a Matrix](src/002_transpose_of_a_matrix.py)
+        - [X] [Reshape Matrix](src/003_reshape_matrix.py)
+        - [X] [Scalar Multiplication of Matrix](src/005_scalar_multiplication_of_matrix.py)
+        - [X] [Matrix-Vector Dot Product](src/001_matrix_vector_dot_product.py)
+   4. Matrix Multiplication
+        - [X] [Matrix times Matrix](src/009_matrix_times_matrix.py)
+        - [X] [Convert Vector to Diagonal Matrix](src/035_convert_vector_to_diagonal_matrix.py)
+        - [X] [Calculate by Row or Column](src/004_calculate_mean_by_row_or_column.py)
+   5. Matrix Properties I
+        - [X] [Matrix Determinant & Trace](src/195_matrix_determinant_and_trace.py)
+        - [X] [Calculate 2x2 Matrix Inverse](src/008_calculate_2x2_matrix_inverse.py)
+        - [X] [Vector Norms (L1/L2/Frobenius)](src/328_vector_norms.py)
+   6. Matrix Properties II
+        - [X] [Calculate Eigenvalues of a Matrix](src/006_calculate_eigenvalues_of_a_matrix.py)
+        - [X] [Check Linear Independence of Vectors](src/331_check_independence_of_vectors.py)
+        - [ ] Matrix Rank
+   7. Solving Linear Systems
+   8. Orthogonality and Projections
+   9. Matrix Decompositions I
+   10. Matrix Decompositions II
+   11. Covariance and Correlation
+   12. Linear Algebra Lab I
+   13. Linear Algebra Lab II
 3. **Probability and Statistics for Machine Learning**
