@@ -274,8 +274,8 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
          - [X] [Calculate Root Mean Square Error (RMSE)](src/071_calculate_root_mean_square_error.py)
          - [X] [Calculate Mean Absolute Error (MAE)](src/093_calculate_mean_absolute_error.py)
          - [X] [Implement Precision Metric](src/046_implement_precision_metric.py)
-         - [ ] Detect Overfitting or Underfitting
-         - [ ] ExponentialLR Learning Rate Scheduler
+         - [X] [Detect Overfitting or Underfitting](src/086_detect_overfitting_or_underfitting.py)
+         - [X] [ExponentialLR Learning Rate Scheduler](src/154_exponentiallr_learning_rate_scheduler.py)
 14. **Essense of Linear Algebra**
     1. Vectors
         - [X] [Scalar Multiplication of a Matrix](src/005_scalar_multiplication_of_matrix.py)
@@ -288,7 +288,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
     4. Matrix Multiplication
         - [X] [Matrix times Matrix](src/009_matrix_times_matrix.py)
     5. Determinant
-        - [ ] Determinant of a 4x4 Matrix using Laplace's Expansion
+        - [X] [Determinant of a 4x4 Matrix using Laplace's Expansion](src/013_determinant_of_a_4x4_matrix_using_laplace_expansion.py)
     6. Inverse Matrices
         - [X] [Calculate 2x2 Matrix Inverse](src/008_calculate_2x2_matrix_inverse.py)
         - [ ] Implement Reduced Row Echelon Form (RREF) Function
