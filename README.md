@@ -378,7 +378,9 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
     7. Calculus Lab
         - [X] [MNIST: Classification Loss (with Gradient)](src/l04_mnist_classification_loss.py)
     8. Pytorch: Calculus Lab 1
+        - [X] [PyTorch: Implement Your Own Gradient Descent Training Step](src/l12_pytorch_implement_your_own_gradient_descent_training_step.py)
     9. Pytorch: Calculus Lab 2
+        - [ ] PyTorch: Build a Complete Training Loop
 2. **Linear Algebra for Machine Learning**
    1. Vector Operations
         - [X] [Dot Product Calculator](src/083_dot_product_calculator.py)
