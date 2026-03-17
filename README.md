@@ -82,7 +82,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Implementing Basic Autograd Operations](src/026_implementing_basic_autograd_operations.py)
         - [X] [Single Neuron with Backpropagation](src/025_single_neuron_with_backpropogation.py)
    2. Lab: Autograd
-        - [ ] MNIST: Classification Loss (with Gradient)
+        - [X] [MNIST: Classification Loss (with Gradient)](src/l04_mnist_classification_loss.py)
    3. Tokenization & Embeddings
         - [ ] Character-Level Tokenizer (stoi/itos/BOS)
         - [ ] Learned Positional Embeddings
@@ -330,8 +330,8 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
 - [X] [Design Your Own Activation Function](src/l09_design_your_own_activation_function.py)
 - [ ] Design Your Own Attention Mechanism
 - [ ] Data Preprocessing: Handling Missing Values
-- [ ] PyTorch: Implement Your Own Gradient Descent Training Step
-- [ ] PyTorch: Build a Complete Training Loop
+- [X] [PyTorch: Implement Your Own Gradient Descent Training Step](src/l12_pytorch_implement_your_own_gradient_descent_training_step.py)
+- [X] [PyTorch: Build a Complete Training Loop](src/l13_pytorch_build_a_complete_training_loop.py)
 - [ ] Numpy: Design Your Own Dimensionality Reduction
 - [ ] Dimensionality Reduction with Sklearn
 - [ ] Feature Deconfounder for Biased Image Data
@@ -380,7 +380,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
     8. Pytorch: Calculus Lab 1
         - [X] [PyTorch: Implement Your Own Gradient Descent Training Step](src/l12_pytorch_implement_your_own_gradient_descent_training_step.py)
     9. Pytorch: Calculus Lab 2
-        - [ ] PyTorch: Build a Complete Training Loop
+        - [X] [PyTorch: Build a Complete Training Loop](src/l13_pytorch_build_a_complete_training_loop.py)
 2. **Linear Algebra for Machine Learning**
    1. Vector Operations
         - [X] [Dot Product Calculator](src/083_dot_product_calculator.py)
