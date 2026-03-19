@@ -106,7 +106,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [ ] Implement Position-wise Feed-Forwards Block with Residual and Dropout
         - [ ] Implement the Square ReLU Activation Function
    10. Lab: Activation Function
-        - [X] [Design Your Own Activation Function](src)
+        - [X] [Design Your Own Activation Function](src/l09_design_your_own_activation_function.py)
    11. Loss Functions & Cross-Entropy
         - [ ] Compute Multi-class Cross-Entropy Loss
         - [X] [Implementation of Log Softmax Function](src/039_implementation_of_log_softmax_function.py)
@@ -291,12 +291,12 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Determinant of a 4x4 Matrix using Laplace's Expansion](src/013_determinant_of_a_4x4_matrix_using_laplace_expansion.py)
     6. Inverse Matrices
         - [X] [Calculate 2x2 Matrix Inverse](src/008_calculate_2x2_matrix_inverse.py)
-        - [ ] Implement Reduced Row Echelon Form (RREF) Function
-        - [ ] Find the Image of a Matrix Using Row Echelon Form  
+        - [X] [Implement Reduced Row Echelon Form (RREF) Function](src/048_implement_reduced_row_echelon_form_function.py)
+        - [X] [Find the Column Space of a Matrix](src/068_find_the_column_space_of_a_matrix.py)
     7. Cross Product
         - [X] [Compute the Cross Product of Two 3D Vectors](src/118_compute_the_cross_product_of_two_3D_vectors.py)
     8. Cramer's Rule
-        - [ ] Solve System of Linear Equations Using Cramer's Rule  
+        - [ ] Solve System of Linear Equations Using Cramer's Rule
     9. Change of Basis
         - [X] [Transformation Matrix from Basis B to C](src/027_transformation_matrix_from_basis_B_to_C.py)
     10. Eigenvector and Eigenvalues
@@ -406,9 +406,15 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
    6. Matrix Properties II
         - [X] [Calculate Eigenvalues of a Matrix](src/006_calculate_eigenvalues_of_a_matrix.py)
         - [X] [Check Linear Independence of Vectors](src/331_check_independence_of_vectors.py)
-        - [ ] Matrix Rank
+        - [X] [Matrix Rank](src/329_matrix_rank.py)
    7. Solving Linear Systems
+        - [X] [Gaussian Elimination for Solving Linear Systems](src/058_gaussian_elimination_for_solving_linear_systems.py)
+        - [X] [Implement Reduced Row Echelon Form](src/048_implement_reduced_row_echelon_form_function.py)
+        - [X] [Solve Linear Equations Using Jacobi Method](src/011_solve_linear_equations_using_jacobi_method.py)
+        - [X] [Gauss-Seidel Method for Solving Linear Systems](src/057_gauss_seidel_method_for_solving_linear_systems.py)
    8. Orthogonality and Projections
+        - [X] [Implement Orthogonal Projection of a Vector Onto a Line](src/066_implement_orthogonal_projection_of_a_vector_onto_a_line.py)
+        - [X] [Compute Orthonormal Basis for 2D Vectors](src/117_compute_orthonormal_basis_for_2d_vectors.py)
    9. Matrix Decompositions I
    10. Matrix Decompositions II
    11. Covariance and Correlation
