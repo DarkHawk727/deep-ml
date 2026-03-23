@@ -296,7 +296,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
     7. Cross Product
         - [X] [Compute the Cross Product of Two 3D Vectors](src/118_compute_the_cross_product_of_two_3D_vectors.py)
     8. Cramer's Rule
-        - [ ] Solve System of Linear Equations Using Cramer's Rule
+        - [X] [Solve System of Linear Equations Using Cramer's Rule](src/119_solve_system_of_linear_equations_using_cramers_rule.py)
     9. Change of Basis
         - [X] [Transformation Matrix from Basis B to C](src/027_transformation_matrix_from_basis_B_to_C.py)
     10. Eigenvector and Eigenvalues
