@@ -14,8 +14,8 @@ def compressed_col_sparse_matrix(dense_matrix: list[list[int | float]]) -> tuple
     return vals, row_idx, col_ptr
 
 
-dense_matrix = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
-vals, row_idx, col_ptr = compressed_col_sparse_matrix(dense_matrix)
+
+vals, row_idx, col_ptr = compressed_col_sparse_matrix([[0, 0, 0], [0, 0, 0], [0, 0, 0]])
 print(vals)
 print(row_idx)
 print(col_ptr)

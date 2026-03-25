@@ -253,9 +253,10 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
 13. **Data Science I Interview Prep**
     1. Core Machine Learning Concepts
          - [X] [Linear Regression Using Gradient Descent](src/015_linear_regression_using_gradient_descent.py)
-         - [ ] K-Means Clustering Implement Early Stopping Based on Validation Loss
-         - [ ] Find the Best Gini-Based Split for a Binary Decision Tree
-         - [ ] Implement K-Nearest Neighbours
+         - [X] [K-Means Clustering](src/017_k_means_clustering.py)
+         - [X] [Implement Early Stopping Based on Validation Loss](src/135_implement_early_stopping_based_on_validation_loss.py)
+         - [X] [Find the Best Gini-Based Split for a Binary Decision Tree](src/138_find_the_best_gini_based_split_for_a_binary_decision_tree.py)
+         - [X] [Implement K-Nearest Neighbours](src/173_implement_k_nearest_neighbors.py)
     2. Data Processing
          - [X] [One-Hot Encoding of Nominal Values](src/034_one_hot_encoding_of_nominal_values.py)
          - [X] [Min-Max Normalization of Feature Values](src/112_min_max_scaling_of_feature_values.py)
@@ -263,7 +264,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
          - [X] [Calculate Mean by Row or Column](src/004_calculate_mean_by_row_or_column.py)
          - [X] [Feature Scaling Implementation](src/016_feature_scaling_implementation.py)
     3. Deep Learning
-         - [ ] Dropout Layer
+         - [X] [Dropout Layer](src/151_dropout_layer.py)
          - [X] [Min-Max Normalization of Feature Values](src/112_min_max_scaling_of_feature_values.py)
          - [X] [Softmax Activation Function Function Implementation](src/023_softmax_activation_function_implementation.py)
          - [X] [Single Neuron](src/024_single_neuron.py)
@@ -280,7 +281,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
     1. Vectors
         - [X] [Scalar Multiplication of a Matrix](src/005_scalar_multiplication_of_matrix.py)
     2. Linear Combinations
-        - [ ] Compute Orthonormal Basis for 2D Vectors
+        - [X] [Compute Orthonormal Basis for 2D Vectors](src/117_compute_orthonormal_basis_for_2d_vectors.py)
     3. Linear Transformations
         - [X] [Matrix-Vector Dot Product](src/001_matrix_vector_dot_product.py)
         - [X] [Dot Product Calculator](src/083_dot_product_calculator.py)
