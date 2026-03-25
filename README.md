@@ -311,11 +311,11 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
 16. **Optimizers**
     - [X] [Implement Gradient Descent Variants with MSE Loss](src/047_implement_gradient_descent_variants_with_MSE_loss.py)
     - [X] [Implement Adam Optimization Algorithm](src/049_implement_adam_optimization_algorithm.py)
-    - [ ] Adagrad Optimizer
+    - [X] [Adagrad Optimizer](src/145_adagrad_optimizer.py)
     - [X] [Momentum Optimizer](src/146_momentum_optimizer.py)
-    - [ ] Adamax Optimizer
-    - [ ] Adadelta Optimizer
-    - [ ] Nesterov Accelerated Gradient Optimizer
+    - [X] [Adamax Optimizer](src/148_adamax_optimizer.py)
+    - [X] [Adadelta Optimizer](src/149_adadelta_optimizer.py)
+    - [X] [Nesterov Accelerated Gradient Optimizer](src/150_nesterov_accelerated_gradient_optimizer.py)
     - [X] [Find Captain Redbeard's Hidden Treasure](src/127_find_captain_redbeards_hidden_treasure.py)
 
 ## Labs
