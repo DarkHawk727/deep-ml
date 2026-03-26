@@ -417,6 +417,8 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Implement Orthogonal Projection of a Vector Onto a Line](src/066_implement_orthogonal_projection_of_a_vector_onto_a_line.py)
         - [X] [Compute Orthonormal Basis for 2D Vectors](src/117_compute_orthonormal_basis_for_2d_vectors.py)
    9. Matrix Decompositions I
+        - [X] [Check if Matrix is Positive Definite](src/332_check_if_matrix_is_positive_definite.py)
+        - [X] [LU Decomposition of a Square Matrix](src/333_LU_decomposition_of_a_square_matrix.py)
    10. Matrix Decompositions II
    11. Covariance and Correlation
    12. Linear Algebra Lab I
