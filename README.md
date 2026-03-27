@@ -420,7 +420,12 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Check if Matrix is Positive Definite](src/332_check_if_matrix_is_positive_definite.py)
         - [X] [LU Decomposition of a Square Matrix](src/333_LU_decomposition_of_a_square_matrix.py)
    10. Matrix Decompositions II
+        - [X] [Singular Value Decomposition of a 2x2 Matrix](src/012_singular_value_decomposition_of_2x2_matrix.py)
+        - [X] [QR Decomposition](src/201_qr_decomposition.py)
    11. Covariance and Correlation
+        - [X] [Calculate Covariance Matrix](src/010_calculate_covariance_matrix.py)
+        - [X] [Calculate Correlation Matrix](src/037_calculate_correlation_matrix.py)
    12. Linear Algebra Lab I
+        - [ ] Numpy: Design Your Own Dimensionality Reduction
    13. Linear Algebra Lab II
 3. **Probability and Statistics for Machine Learning**
