@@ -426,6 +426,7 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
         - [X] [Calculate Covariance Matrix](src/010_calculate_covariance_matrix.py)
         - [X] [Calculate Correlation Matrix](src/037_calculate_correlation_matrix.py)
    12. Linear Algebra Lab I
-        - [ ] Numpy: Design Your Own Dimensionality Reduction
+        - [X] [Numpy: Design Your Own Dimensionality Reduction](src/l14_numpy_design_your_own_dimensionality_reduction.py)
    13. Linear Algebra Lab II
+        - [X] [Dimensionality Reduction with Sklearn](src/l15_dimensionality_reduction_with_sklearn.py)
 3. **Probability and Statistics for Machine Learning**
