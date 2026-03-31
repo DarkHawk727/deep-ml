@@ -430,3 +430,22 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
    13. Linear Algebra Lab II
         - [X] [Dimensionality Reduction with Sklearn](src/l15_dimensionality_reduction_with_sklearn.py)
 3. **Probability and Statistics for Machine Learning**
+    1. Descriptive Statistics
+       - [X] [Descriptive Statistics Calculator](src/078_descriptive_statistics_calculator.py)
+       - [X] [Calculate P50/P95/P99 Latency Percentiles](src/293_calculate_p50_p95_p99_latency_percentiles.py)
+       - [X] [Calculate Covariance Matrix](src/010_calculate_covariance_matrix.py)
+    2. Probability Fundamentals
+       1. - [X] [Expected Value and Variance of an n-sided Die](src/179_expected_value_and_variance_of_an_n_sided_die.py)
+       2. - [X] E[mpirical Probability Mass Function](src/184_empirical_probability_mass_function.py)
+       3. - [X] Calculate Conditional Probability
+       4. - [ ] Compute Total Probability
+    3. Bayes' Theorem
+    4. Common Distributions I
+    5. Common Distributions II
+    6. Law of Large Numbers and CLT
+    7. Information Theory
+    8. KL Divergence
+    9. Maximum Likelihood and MAP
+    10. Statistical Inference
+    11. Bayesian Methods
+    12. Probabalistic Models
