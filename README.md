@@ -333,8 +333,8 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
 - [ ] Data Preprocessing: Handling Missing Values
 - [X] [PyTorch: Implement Your Own Gradient Descent Training Step](src/l12_pytorch_implement_your_own_gradient_descent_training_step.py)
 - [X] [PyTorch: Build a Complete Training Loop](src/l13_pytorch_build_a_complete_training_loop.py)
-- [ ] Numpy: Design Your Own Dimensionality Reduction
-- [ ] Dimensionality Reduction with Sklearn
+- [X] [Numpy: Design Your Own Dimensionality Reduction](src/l14_numpy_design_your_own_dimensionality_reduction.py)
+- [X] [Dimensionality Reduction with Sklearn](src/l15_dimensionality_reduction_with_sklearn.py)
 - [ ] Feature Deconfounder for Biased Image Data
 - [ ] Train a Linear Regression Model
 - [ ] Build a Tokenizer for Language Modeling
