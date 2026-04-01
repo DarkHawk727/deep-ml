@@ -436,8 +436,8 @@ A repository for my solutions to problems on [Deep-ML](https://www.deep-ml.com/)
        - [X] [Calculate Covariance Matrix](src/010_calculate_covariance_matrix.py)
     2. Probability Fundamentals
        1. - [X] [Expected Value and Variance of an n-sided Die](src/179_expected_value_and_variance_of_an_n_sided_die.py)
-       2. - [X] E[mpirical Probability Mass Function](src/184_empirical_probability_mass_function.py)
-       3. - [X] Calculate Conditional Probability
+       2. - [X] [Empirical Probability Mass Function](src/184_empirical_probability_mass_function.py)
+       3. - [X] [Calculate Conditional Probability](src/168_calculate_conditional_probability_from_data.py)
        4. - [ ] Compute Total Probability
     3. Bayes' Theorem
     4. Common Distributions I
